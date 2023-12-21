@@ -1,15 +1,15 @@
 # Site Settings
 lang: en
-title: Joshua's Personal Website
-tagline: Bulma Clean Theme
-email: your-email@domain.com
+title: Joshua's Site
+tagline: Personal Projects
+email: josh5803k@gmail.com
 description: >
-  The demo site for Bulma Clean Theme, made for Jekyll and GitHub pages websites
+  This is Joshua's website for personal projects.
 # baseurl: "/bulma-clean-theme"
 url: "https://joshu4lim.github.io"
 permalink: pretty
 #favicon: /path/to/favicon.png
-gh_sponsor: chrisrhymes
+#gh_sponsor: chrisrhymes
 #hide_share_buttons: true
 #theme_color: '#eeeeee'
 #fixed_navbar: top
