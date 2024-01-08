@@ -1,6 +1,6 @@
 ---
-title: Joshua's Web
-subtitle: This is the demo site for Bulma Clean Theme
+title: Joshua's Site
+subtitle: Joshua's Personal Projects
 layout: page
 callouts: home_callouts
 show_sidebar: true
