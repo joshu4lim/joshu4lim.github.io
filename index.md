@@ -16,7 +16,7 @@ This website showcases my projects.
 
 ## Java Bullet Dodge Game
 
-Placeholder ignore VVV
+Placeholder ignore link -->
 [https://rubygems.org/gems/bulma-clean-theme](https://rubygems.org/gems/bulma-clean-theme).
 
 ## GitHub Pages
@@ -48,8 +48,3 @@ This demo site showcases the available page layout options.
 * Blog
 * Post
 
-## Supported By JetBrains
-
-JetBrains have kindly provided an Open Source licence to aid in the future development of Bulma Clean Theme.
-
-[![JetBrains](img/jetbrains-variant-4.svg)](https://www.jetbrains.com/?from=bulma-clean-theme)
