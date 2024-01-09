@@ -1,6 +1,6 @@
 ---
-title: Joshua's Site
-subtitle: Joshua's Personal Projects
+title: Joshua Lim
+subtitle: Personal Projects
 layout: page
 callouts: home_callouts
 show_sidebar: true
