@@ -8,20 +8,18 @@ show_sidebar: true
 
 # Joshua's Website
 
-This website showcases my projects. 
+Hi, I'm a student '26 at the University of Michigan studying computer science! This website showcases my projects. 
 
 <!-- [![Gem Version](https://badge.fury.io/rb/bulma-clean-theme.svg)](https://badge.fury.io/rb/bulma-clean-theme)
 ![Gem](https://img.shields.io/gem/dt/bulma-clean-theme.svg)
 ![GitHub Repo stars](https://img.shields.io/github/stars/chrisrhymes/bulma-clean-theme?style=social) -->
 
-## Java Bullet Dodge Game
+## Java Bullet Hell Game
 
+This game is a 2D Space-Invader-esque game I made in Java.   
 Placeholder ignore link -->
 [https://rubygems.org/gems/bulma-clean-theme](https://rubygems.org/gems/bulma-clean-theme).
 
-## GitHub Pages
-
-The theme can be used with GitHub Pages by setting the `remote_theme` in your Jekyll sites `_config.yml`
 
 ```yml
 remote_theme: chrisrhymes/bulma-clean-theme
