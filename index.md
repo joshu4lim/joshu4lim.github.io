@@ -8,7 +8,7 @@ show_sidebar: true
 
 # Joshua's Website
 
-Hi, I'm a student '26 at the University of Michigan studying computer science! This website showcases my projects. 
+Hi, I'm a student at the University of Michigan class of 2026, studying computer science! This website showcases my projects. 
 
 <!-- [![Gem Version](https://badge.fury.io/rb/bulma-clean-theme.svg)](https://badge.fury.io/rb/bulma-clean-theme)
 ![Gem](https://img.shields.io/gem/dt/bulma-clean-theme.svg)
