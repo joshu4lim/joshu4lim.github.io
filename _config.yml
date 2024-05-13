@@ -8,7 +8,7 @@ description: >
 # baseurl: "/bulma-clean-theme"
 url: "https://joshu4lim.github.io"
 permalink: pretty
-favicon: /path/to/favicon.ico
+favicon: /favicon.ico
 #gh_sponsor: chrisrhymes
 #hide_share_buttons: true
 #theme_color: '#eeeeee'
