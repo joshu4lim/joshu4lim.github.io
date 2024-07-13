@@ -3,7 +3,7 @@ title: Joshua Lim
 subtitle: Personal Projects
 layout: page
 callouts: home_callouts
-show_sidebar: true
+show_sidebar: false
 ---
 
 # Joshua's Website
